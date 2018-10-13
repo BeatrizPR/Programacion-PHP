@@ -43,5 +43,5 @@ Si has copiado los archivos en la carpeta con nombre PHP, detrás de localhost/ 
 
 ## :blue_book: PHP
 
-<img src="imagenes/php.png" width="240px">
+<img src="php.png" width="240px">
 
