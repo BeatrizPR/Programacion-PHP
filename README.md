@@ -40,8 +40,6 @@ Si has copiado los archivos en la carpeta con nombre PHP, detrás de localhost/ 
 ## Índice de ejercicios
 
 * 
-* Comandos de Linux  :penguin:
-* Git y GitHub  :octocat:
 
 ## :blue_book: PHP
 
